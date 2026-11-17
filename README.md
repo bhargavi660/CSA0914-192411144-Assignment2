@@ -1,10 +1,10 @@
 # CSA09-[FILL IN]-Assignment2
 
-- Student name: [FILL IN]
-- Register number: [FILL IN]
-- Repository name: CSA09-<RegisterNumber>-Assignment2
+- Student name: [BHARGAVI. N]
+- Register number: [192411144]
+- Repository name: CSA0914-192411144-Assignment2
 - Java version: 26.0.2.1 (detected with `java -version`)
-- GitHub repository link: [FILL IN]
+- GitHub repository link: [https://github.com/bhargavi660/CSA0914-192411144-Assignment2.git]
 
 ## Project structure
 
